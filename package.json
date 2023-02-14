@@ -1,0 +1,25 @@
+{
+  "name": "ibfefwtx-vue3",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "daisyui": "^2.50.1",
+    "pinia": "^2.0.30",
+    "pinia-plugin-persistedstate": "^3.0.2",
+    "vue": "^3.2.47",
+    "vue-material-design-icons": "^5.2.0",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.6",
+    "vite": "^4.1.1"
+  }
+}
